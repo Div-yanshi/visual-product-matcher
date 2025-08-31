@@ -1,0 +1,51 @@
+id,name,category,image_url,price
+1,Red T-Shirt,T-Shirts,https://loremflickr.com/400/400/t-shirts,59.48
+2,Blue T-Shirt,T-Shirts,https://loremflickr.com/400/400/t-shirts,160.61
+3,Graphic Tee,T-Shirts,https://loremflickr.com/400/400/t-shirts,64.22
+4,White Polo,T-Shirts,https://loremflickr.com/400/400/t-shirts,48.21
+5,Black Hoodie,T-Shirts,https://loremflickr.com/400/400/t-shirts,58.29
+6,Green Sweatshirt,T-Shirts,https://loremflickr.com/400/400/t-shirts,47.82
+7,Yellow T-Shirt,T-Shirts,https://loremflickr.com/400/400/t-shirts,148.41
+8,Striped Tee,T-Shirts,https://loremflickr.com/400/400/t-shirts,73.8
+9,V-Neck Tee,T-Shirts,https://loremflickr.com/400/400/t-shirts,102.84
+10,Long Sleeve Shirt,T-Shirts,https://loremflickr.com/400/400/t-shirts,34.59
+11,Running Shoes,Sneakers,https://loremflickr.com/400/400/sneakers,128.83
+12,High-top Sneakers,Sneakers,https://loremflickr.com/400/400/sneakers,183.17
+13,White Sneakers,Sneakers,https://loremflickr.com/400/400/sneakers,61.38
+14,Black Trainers,Sneakers,https://loremflickr.com/400/400/sneakers,25.62
+15,Sports Shoes,Sneakers,https://loremflickr.com/400/400/sneakers,192.54
+16,Casual Sneakers,Sneakers,https://loremflickr.com/400/400/sneakers,81.76
+17,Red Sneakers,Sneakers,https://loremflickr.com/400/400/sneakers,163.6
+18,Blue Running Shoes,Sneakers,https://loremflickr.com/400/400/sneakers,121.5
+19,Slip-on Sneakers,Sneakers,https://loremflickr.com/400/400/sneakers,163.59
+20,Skate Shoes,Sneakers,https://loremflickr.com/400/400/sneakers,29.93
+21,Sports Watch,Watches,https://loremflickr.com/400/400/watches,57.63
+22,Smartwatch,Watches,https://loremflickr.com/400/400/watches,146.99
+23,Analog Watch,Watches,https://loremflickr.com/400/400/watches,167.24
+24,Digital Watch,Watches,https://loremflickr.com/400/400/watches,190.26
+25,Luxury Watch,Watches,https://loremflickr.com/400/400/watches,90.78
+26,Leather Strap Watch,Watches,https://loremflickr.com/400/400/watches,148.47
+27,Steel Watch,Watches,https://loremflickr.com/400/400/watches,31.86
+28,Casual Watch,Watches,https://loremflickr.com/400/400/watches,175.98
+29,Classic Watch,Watches,https://loremflickr.com/400/400/watches,136.88
+30,Minimalist Watch,Watches,https://loremflickr.com/400/400/watches,188.58
+31,Travel Backpack,Backpacks,https://loremflickr.com/400/400/backpacks,77.76
+32,Laptop Backpack,Backpacks,https://loremflickr.com/400/400/backpacks,40.9
+33,Casual Backpack,Backpacks,https://loremflickr.com/400/400/backpacks,63.85
+34,Hiking Backpack,Backpacks,https://loremflickr.com/400/400/backpacks,184.27
+35,School Bag,Backpacks,https://loremflickr.com/400/400/backpacks,55.24
+36,Black Backpack,Backpacks,https://loremflickr.com/400/400/backpacks,183.8
+37,Sports Backpack,Backpacks,https://loremflickr.com/400/400/backpacks,33.54
+38,Camera Bag,Backpacks,https://loremflickr.com/400/400/backpacks,14.33
+39,Leather Backpack,Backpacks,https://loremflickr.com/400/400/backpacks,111.52
+40,Gym Backpack,Backpacks,https://loremflickr.com/400/400/backpacks,107.9
+41,Wireless Headphones,Headphones,https://loremflickr.com/400/400/headphones,179.86
+42,Noise Cancelling Headphones,Headphones,https://loremflickr.com/400/400/headphones,103.12
+43,Bluetooth Earbuds,Headphones,https://loremflickr.com/400/400/headphones,26.69
+44,Over-ear Headphones,Headphones,https://loremflickr.com/400/400/headphones,132.39
+45,Gaming Headset,Headphones,https://loremflickr.com/400/400/headphones,66.07
+46,Wired Headphones,Headphones,https://loremflickr.com/400/400/headphones,185.39
+47,Studio Headphones,Headphones,https://loremflickr.com/400/400/headphones,84.89
+48,Sports Earbuds,Headphones,https://loremflickr.com/400/400/headphones,188.47
+49,Travel Headphones,Headphones,https://loremflickr.com/400/400/headphones,65.52
+50,In-ear Monitors,Headphones,https://loremflickr.com/400/400/headphones,110.09
